@@ -91,3 +91,9 @@ The objective is to simulate a real-world business scenario and enable **data-dr
 ---
 
 ## ⭐ If you found this useful, consider giving it a star!
+
+---
+
+## Dashboard View
+
+https://github.com/Dipanshu-BA/Customer-Behavior-Revenue-Insights-Analysis/blob/main/Code%2C%20Queries%2C%20%26%20Dashboard/Power%20BI%20Dashboard.pdf
